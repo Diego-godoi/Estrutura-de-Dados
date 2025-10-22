@@ -55,3 +55,5 @@ if word == invertedWord:
     print("Inverted Word: ", invertedWord)
 else:
     print("This is not palindrome")
+    print("Word: ", word)
+    print("Inverted Word: ", invertedWord)
